@@ -1,0 +1,52 @@
+{
+  "bookstore": [
+    {
+      "id": "1",
+      "name": "Arte da Guerra",
+      "price": "19",
+      "quantity": "5",
+      "category": "XY",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51oHEIpVOwL._SX354_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Sapiens - Uma breve historia da humanidade",
+      "price": "30",
+      "quantity": "3",
+      "category": "XY",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/710evbXqM2L.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Homo Deus",
+      "price": "35",
+      "quantity": "4",
+      "category": "XY",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81ql3Ty2O2L.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Código Limpo",
+      "price": "35",
+      "quantity": "6",
+      "category": "YZ",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71dH97FwGbL.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Use a Cabeça! Java",
+      "price": "120",
+      "quantity": "5",
+      "category": "YZ",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61jzaHuWFLL.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Design Patterns",
+      "price": "100",
+      "quantity": "8",
+      "category": "YZ",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91quawUTiVL.jpg"
+    }
+  ]
+}
