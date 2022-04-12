@@ -23,6 +23,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Para rodar digite no terminal _npm start ou npm run start_
 Acesso ao Json _http://localhost:3000/bookstore_
 
-# Pratica de linkar componente
+## Pratica de linkar componente
 
 Tem muitas coisas para ser feito, modificado, estudo foi para o uso dos seletores e alguns property binding
